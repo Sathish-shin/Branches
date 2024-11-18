@@ -1,1 +1,2 @@
 This is the information about the working directory and staging area
+Changed the content in Linux 
